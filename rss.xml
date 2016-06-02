@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[project2501a]]></title>
-        <description><![CDATA[project2501a]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[There is a Ghost In My Shell and it keeps on whispering]]></title>
+        <description><![CDATA[There is a Ghost In My Shell and it keeps on whispering]]></description>
+        <link>https://thegrid.ai/project2501a/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 09:03:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 17:31:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/project2501a/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ghost In The Shell]]></title>
+            <description><![CDATA[<p>When I was a Child, I spoke like a Child , I thought like a Child.</p>]]></description>
+            <link>https://thegrid.ai/project2501a/ghost-in-the-shell/index.html</link>
+            <guid isPermaLink="false">e0626991-1566-427c-ba23-95283e1ca0a0</guid>
+            <pubDate>Thu, 02 Jun 2016 17:30:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c70afc-039c-4db3-89de-26b25c4d4a47.jpg">]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/project2501a/hello-world/index.html</link>
             <guid isPermaLink="false">6f189ec2-6436-4b53-947c-634495737d38</guid>
             <pubDate>Wed, 11 May 2016 09:02:51 GMT</pubDate>
         </item>
